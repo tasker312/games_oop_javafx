@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/peterarsentev/games_oop_javafx.svg?branch=master)](https://travis-ci.org/peterarsentev/games_oop_javafx)
+[![Build Status](https://app.travis-ci.com/tasker312/games_oop_javafx.svg?branch=master)](https://app.travis-ci.com/tasker312/games_oop_javafx)
 
 # games_oop_javafx
 This project demonstrates how to use Java Fx in OOP Style. 
